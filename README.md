@@ -1,6 +1,5 @@
-Done by Mohamed Riyas (AXXXXXXXX) and Mohideen Imran Khan (A0181321U) under GA ...
+Done by Mohamed Riyas and Mohideen Imran Khan
 
-# CG2028 Assignment
 
 # Problem statement
 Gradient descent algorithm makes use of the property of function gradient to find local minimum value for a given function. For this assignment, our group was tasked to write the assembly language function optimize() in the file “optimize.s” to implement the gradient descent algorithm. The below sections will examine the design methodology and implementation aspects of the assignment.
